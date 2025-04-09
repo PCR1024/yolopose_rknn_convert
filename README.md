@@ -1,5 +1,5 @@
 ## yolopose_rknn_convert
-一个简易的将ultralytics官方YOLOV8/YOLO11的Pose模型转换为RKNN的脚本，同时适配RKNN官方modelzoo https://github.com/airockchip/rknn_model_zoo/tree/main 里的yolov8_pose例程
+一个简易的将ultralytics官方YOLOV8/YOLO11的各大小Pose模型转换为RKNN的脚本，同时适配RKNN官方modelzoo https://github.com/airockchip/rknn_model_zoo/tree/main 里的yolov8_pose例程
 
 运行前需pip安装ultralytics, rknn_toolkit2
 
